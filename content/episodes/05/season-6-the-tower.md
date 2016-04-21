@@ -1,12 +1,11 @@
 +++
-title = "The Tower (Season 6)"
-date = "2014-05-05"
-categories = [
-    "season6",
-    "episodes"
-]
-description = "Finn is not happy with his replacement arm."
 banner = "assets/images/thetower.jpg"
+categories = ["season6", "episodes"]
+date = "2014-05-05T00:00:00+00:00"
+description = "Finn is not happy with his replacement arm."
+draft = false
+title = "The Tower (Season 6)"
+
 +++
 The episode starts with Finn trying to make spaghetti with a bulky candy arm. His bulky arm doesn't help Finn and he starts destroying things and as he continues to mess things up, he gets frustrated and his candy arm explodes. [Jake](http://adventuretime.wikia.com/wiki/Jake)comes down stairs, hoping for the spaghetti<!--more-->, but instead sees the mess and tells him that he should just take his time and listen to his "Melon Heart." Finn then says he wants to go to space so he can take [his father](http://adventuretime.wikia.com/wiki/Martin)'s arm. Jake tells him not to do this but to just relax and think and that he's going to the store to buy replacement kitchen supplies for the ones Finn broke. Finn goes outside the tree fort and he lies on the ground. He starts to talk to himself and then suddenly he notices a pile of rocks forming behind him and that there is an odd, sightly transparent arm, where his real arm used to be. He then decides to use this arm to build a tower into space to find his dad.
 

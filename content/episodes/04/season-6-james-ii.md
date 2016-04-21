@@ -1,12 +1,11 @@
 +++
-title = "James II (Season 6)"
-date = "2014-04-28"
-categories = [
-    "season6", 
-    "episodes"
-]
-description = "Finn and Jake discover that Clone James has been faking his own death."
 banner = "assets/images/jamesii.jpg"
+categories = ["season6", "episodes"]
+date = "2014-04-28T00:00:00+00:00"
+description = "Finn and Jake discover that Clone James has been faking his own death."
+draft = false
+title = "James II (Season 6)"
+
 +++
 The episode begins with Finn, Jake, and Bubblegum walking and looking for a flower called a Weeping Willy. Once they find it, they start collecting its tears, when Clone James fakes his death claiming that the ground below Bubblegum is loose and performs a fake attempt to save her.<!--more--> He falls into the river and yells, "Remember me!". A flashback is shown of the occurrences of the episode "[James](http://adventuretime.wikia.com/wiki/James)." Finn and Jake feel sorry for him, pointing out that it was the 25th time James had sacrificed himself for Bubblegum. Princess Bubblegum then tells them that James faked his death, and points out that the ground near the flower is perfectly solid, and there is no possibility of her falling into the river.
 

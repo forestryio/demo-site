@@ -1,12 +1,11 @@
 +++
-title = "Escape from the Citadel (Season 6)"
-date = "2014-04-21"
-categories = [
-    "season6",
-    "episodes"
-]
-description = "Finn and Jake follow the Lich to the Citadel, where Finn meets his long lost dad."
 banner = "assets/images/citadel.jpg"
+categories = ["season6", "episodes"]
+date = "2014-04-21T00:00:00+00:00"
+description = "Finn and Jake follow the Lich to the Citadel, where Finn meets his long lost dad."
+draft = false
+title = "Escape from the Citadel (Season 6)"
+
 +++
 [Finn](http://adventuretime.wikia.com/wiki/Finn) and [Jake](http://adventuretime.wikia.com/wiki/Jake) hitch a ride on a Citadel Guardian after he imprisons and transports [The Lich](http://adventuretime.wikia.com/wiki/The_Lich_(character)) to the Citadel. Upon arrival, the Guardian attaches The Lich's crystal prison onto a much larger crystal "cell block." Finn then says it is a good riddance for The Lich.<!--more--> As they talk, The Lich begins emitting a gray breath in his cell which the duo don't notice. Finn and Jake then look around for Finn's long-lost father, whom Finn initially suggests might be a Guardian. Jake points out a strange looking "old kid" who resembles Finn, and it turns out to be Finn's father incarcerated inside a crystal jail cell.
 
