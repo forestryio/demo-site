@@ -1,12 +1,11 @@
 +++
-title = "Food Chain (Season 6)"
-date = "2014-06-12"
-categories = [
-    "season6",
-    "episodes"
-]
-description = "Finn and Jake learn about the food chain by becoming the food chain."
 banner = "assets/images/foodchain.jpg"
+categories = ["season6", "episodes"]
+date = "2014-06-12T00:00:00+00:00"
+description = "Finn and Jake learn about the food chain by becoming the food chain."
+draft = false
+title = "Food Chain (Season 6)"
+
 +++
 The episode begins with candy children that have bodies resembling different shapes sliding down a slide, shouting with excitement. The kids are viewed from an horizontal angle in the next scene as they go through a playground-like structure.<!--more--> Finn and Jake are examining the 'Catapilla Family'. After watching Princess Bubblegum teach the children about the Food Chain, they head to the snack bar as Finn found Princess Bubblegum's class useless.
 

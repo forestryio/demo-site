@@ -1,12 +1,11 @@
 +++
-title = "Breezy (Season 6)"
-date = "2014-06-05"
-categories = [
-    "season6",
-    "episodes"
-]
-description = "Finn decides to get back into the dating game to help his wilting arm flower."
 banner = "assets/images/breezy.jpg"
+categories = ["season6", "episodes"]
+date = "2014-06-05T00:00:00+00:00"
+description = "Finn decides to get back into the dating game to help his wilting arm flower."
+draft = false
+title = "Breezy (Season 6)"
+
 +++
 The episode begins with [Doctor Princess](http://adventuretime.wikia.com/wiki/Doctor_Princess) examining Finn's flower arm, which is seen dull and has wilted some petals. He said that he had been drinking pickle juice a lot, but Doctor Princess told him to switch back to water.<!--more--> After this, she asks him how is he feeling, to which he replies he doesn't feel anything and slumps out of the bed. Doctor Princess tells that that's the reason and also that because his dad took his arm, his flower is starting to wilt and he is falling into depression. She tells him to have fun for the flower to continue its good growth, and Finn tells that she should come with him to [Crab Princess](http://adventuretime.wikia.com/wiki/Crab_Princess)' party, to which she confusedly asks as a date. Finn replies yes, but she denies him, telling she doesn't date her patients. Finn then walks out of the hospital.
 
