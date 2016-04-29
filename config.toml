@@ -1,7 +1,7 @@
 baseurl = "http://localhost:1313/"
 languagecode = "en-us"
 pluralizelisttitles = false
-title = "Adventure Time!!"
+title = "Adventure Time!"
 [[menu.main]]
 name = "Home"
 url = "/"
