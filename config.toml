@@ -1,4 +1,4 @@
-baseurl = "http://localhost:1313/"
+baseurl = "http://forestrydemosite.com/"
 languagecode = "en-us"
 pluralizelisttitles = false
 title = "Adventure Time!"
