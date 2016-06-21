@@ -1,5 +1,5 @@
 +++
-banner = "assets/images/foodchain.jpg"
+banner = "forestryio/images/foodchain.jpg"
 categories = ["season6", "episodes"]
 date = "2014-06-12T00:00:00+00:00"
 description = "Finn and Jake learn about the food chain by becoming the food chain."

@@ -1,5 +1,5 @@
 +++
-banner = "assets/images/wakeup.jpg"
+banner = "forestryio/images/wakeup.jpg"
 categories = ["season6", "episodes"]
 date = "2014-04-21T00:00:00+00:00"
 description = "Prismo helps Finn and Jake access the Crystal Citadel to meet Finn's father."
