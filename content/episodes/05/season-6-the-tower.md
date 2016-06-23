@@ -1,5 +1,5 @@
 +++
-banner = "assets/images/thetower.jpg"
+banner = "forestryio/images/thetower.jpg"
 categories = ["season6", "episodes"]
 date = "2014-05-05T00:00:00+00:00"
 description = "Finn is not happy with his replacement arm."

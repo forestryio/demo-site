@@ -1,5 +1,5 @@
 +++
-banner = "assets/images/citadel.jpg"
+banner = "forestryio/images/citadel.jpg"
 categories = ["season6", "episodes"]
 date = "2014-04-21T00:00:00+00:00"
 description = "Finn and Jake follow the Lich to the Citadel, where Finn meets his long lost dad."

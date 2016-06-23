@@ -1,5 +1,5 @@
 +++
-banner = "assets/images/foodchain.jpg"
+banner = "forestryio/images/foodchain.jpg"
 categories = ["season6", "episodes"]
 date = "2014-06-12T00:00:00+00:00"
 description = "Finn and Jake learn about the food chain by becoming the food chain."
@@ -8,6 +8,8 @@ title = "Food Chain (Season 6)"
 
 +++
 The episode begins with candy children that have bodies resembling different shapes sliding down a slide, shouting with excitement. The kids are viewed from an horizontal angle in the next scene as they go through a playground-like structure.<!--more--> Finn and Jake are examining the 'Catapilla Family'. After watching Princess Bubblegum teach the children about the Food Chain, they head to the snack bar as Finn found Princess Bubblegum's class useless.
+
+a change
 
 While they're walking Magic Man appears behind the two without them knowing, and transforms them into birds. After singing an electronic version of "[Der Hölle Rache kocht in meinem Herzen](http://adventuretime.wikia.com/wiki/Der_H%C3%B6lle_Rache_kocht_in_meinem_Herzen)," they fly down below to a place with an oasis on it. Jake eats some caterpillars, which disgusts Finn. After that Finn tries eating the caterpillars and pukes on the ground. In the next scene, Finn and Jake are shown to be very chubby and sitting on the ground lazily. Finn becomes confused for why he became full from eating few caterpillars. Jake informs him that they have been eating for hours. Soon, Finn and Jake notice a shadow on the ground that gradually becomes bigger. They look up to see a big bird trying to attack them. Finn and Jake dodge this attack and attempt to fly away. However, because of Finn's chubby body, Finn is not able to fly and skids across the ground. As the big bird flies closer, Finn cowers. The big bird does not recognize Finn and flies onward. As Finn tries to fly away, the big bird notices and flies towards him once again. Just as the big bird was close enough to strike, Magic Man converts Finn into the big bird.
 

@@ -1,10 +1,11 @@
 +++
-banner = "assets/images/sadface.jpg"
+banner = "forestryio/images/sadface.jpg"
 categories = ["season6", "episodes"]
 date = "2014-05-12T00:00:00+00:00"
 description = "While Jake is asleep, his tail goes to work as a clown in a traveling bug circus."
 draft = false
 title = "Sad Face (Season 6)"
+<<<<<<< HEAD
 
 +++
 The episode begins with [Neptr](http://adventuretime.wikia.com/wiki/Neptr) and [BMO](http://adventuretime.wikia.com/wiki/BMO) spying on a sleeping Finn and Jake. Neptr asks BMO what is going to happen and asks the cause of their spying to which BMO tells him to just watch, as this happens once in a month and also promises it would happen.<!--more-->
@@ -22,5 +23,8 @@ The scene then fades out to the place of the Ringmaster. He is seen trying to pu
 The scene fades to the arena and shows Blue Nose entering. He starts his same song used in the last show, and the Ringmaster thinks he will still perform the same bad act. Blue Nose instead goes to the middle, where there is a chair with a cushion on it. As soon as he sat on the cushion, it made a farting sound, to which the crowd laughed. The Ringmaster is awestruck and sees as the act continues. Blue Nose takes the whoopee cushion and throws it, and then proceeds to sit, but the chair breaks and the crowd laughs. He then goes to fill his water tumbler, but the water container throws water at his face. He starts to wrestle with it, but it kept throwing out water and the crowd laughed at it.
 
 He then proceeds to change his music to more hip type, but the record player doesn't do this and he breaks it and the crowd laughs yet again. After his act, the crowd starts throwing money at him and Blue Nose approaches the Ringmaster. He is quite pleased with Blue Nose and says if he and Goralina perform, they would make this show a success. Blue Nose gets angered by him, and proceeds to use a whip on him. Thinking that it was part of an act, the audience cheers, laughs, and applauds. Goralina is arrived in chains but Blue Nose helps her to break out and they start running.
+=======
+>>>>>>> master
 
-They are escaped from the circus, but due to the fact that Blue Nose is Jake's tail and was just stretching, its trails were still in the circus, and so the Ringmaster pulls him back. He starts to slap him and one of the ants who was slapping him smeared his hat on his mouth, which changes expression from sad to that of happy. They ask him why is he happy, but he just waits and as soon as the first ray of sunlight strikes him, he begins to undo all his stretching, and finally reaches Jake, who wakes with a snap. Finn notices Jake and says nothing as he does not know it, but the episode ends with Neptr and BMO giggling.
++++
+cool
