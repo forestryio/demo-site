@@ -5,7 +5,6 @@ date = "2014-05-12T00:00:00+00:00"
 description = "While Jake is asleep, his tail goes to work as a clown in a traveling bug circus."
 draft = false
 title = "Sad Face (Season 6)"
-<<<<<<< HEAD
 
 +++
 The episode begins with [Neptr](http://adventuretime.wikia.com/wiki/Neptr) and [BMO](http://adventuretime.wikia.com/wiki/BMO) spying on a sleeping Finn and Jake. Neptr asks BMO what is going to happen and asks the cause of their spying to which BMO tells him to just watch, as this happens once in a month and also promises it would happen.<!--more-->
