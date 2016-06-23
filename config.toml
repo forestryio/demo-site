@@ -16,4 +16,4 @@ description = "Adventure Time is an American animated television series created 
 [sitemap]
 ChangeFreq = ""
 Filename = "sitemap.xml"
-Priority = "-1"
+Priority = -1
