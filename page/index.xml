@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page on Hugo Forestry</title>
+    <link>http://hugo.dindi.net/page/</link>
+    <description>Recent content in Page on Hugo Forestry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://hugo.dindi.net/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://hugo.dindi.net/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hugo.dindi.net/page/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;we-are-small-but-ingenious:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;We are small but ingenious&lt;/h2&gt;
+
+&lt;p&gt;We Travel around the forest on aircraft made from dry leaves&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;//lh3.googleusercontent.com/-it27q1N0Pi8/VKBB6u4gKLI/AAAAAAAAJVw/pBxtmS9HAB0cUfgplnxaWgJOcsgi5N6ogCCo/s800-Ic42/3c5b1150-c5c6-4ea1-9225-a4d3061725d5&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are developing technology to shrink the forest animals because the forests are getting smaller.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Back on gh-pages&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://hugo.dindi.net/</loc>
+    <lastmod>2016-07-18T13:59:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hugo.dindi.net/post/asdfasdfasdf/</loc>
+    <lastmod>2016-07-18T13:59:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hugo.dindi.net/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hugo.dindi.net/post/a-start/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hugo.dindi.net/post/continue/</loc>
+  </url>
+  
+</urlset>
