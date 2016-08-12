@@ -1,9 +1,9 @@
 +++
-banner = "forestryio/images/jamesii.jpg"
-categories = ["season6", "episodes"]
+banner = ""
+categories = ""
 date = "2014-04-28T00:00:00+00:00"
-description = "Finn and Jake discover that Clone James has been faking his own death."
-draft = false
+description = ["this is at test"]
+draft = true
 title = "James II (Season 6)"
 
 +++
