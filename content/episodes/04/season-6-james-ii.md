@@ -2,7 +2,7 @@
 banner = ""
 categories = ""
 date = "2014-04-28T00:00:00+00:00"
-description = "This is a test"
+description = "this is some text"
 draft = true
 title = "James II (Season 6)"
 
