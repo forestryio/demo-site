@@ -7,8 +7,8 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Episodes"
-url = "/episodes"
+name = "Posts"
+url = "/posts"
 weight = 2
 [params]
 banner = "forestryio/images/about.jpg"

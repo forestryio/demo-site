@@ -44,7 +44,7 @@
                                 <h2>Recent Episodes</h2>
                             </header>
                             <div class="row">
-                            {{ range first 2 (where .Site.Pages "Section" "episodes") }}
+                            {{ range first 2 (where .Site.Pages "Section" "posts") }}
                                 <div class="6u">
                                     <section class="box">
                                         <a href="{{ .Permalink }}" class="image featured"><img src="{{ .Site.BaseURL }}{{ .Params.banner }}" alt="" /></a>
