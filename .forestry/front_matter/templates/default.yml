@@ -7,6 +7,11 @@ fields:
   type: text
   hidden: false
   default: ''
+- name: banner
+  type: file
+  config:
+    maxSize: 250
+  label: Banner
 - name: description
   label: Description
   type: text
@@ -17,11 +22,6 @@ fields:
   type: tag_list
   hidden: false
   default: []
-- name: banner
-  label: Banner
-  type: text
-  hidden: false
-  default: ''
 - name: categories
   label: Categories
   type: tag_list
