@@ -43,5 +43,46 @@ fields:
       file: 
       path: 
   label: Type
+- name: test_group
+  type: field_group
+  config: {}
+  label: Test Group
+- name: 2_column_layout
+  type: field_group
+  config: {}
+  fields:
+  - name: column_1
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Text
+      - Video
+      - Image
+      - Title
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Column 1
+  - name: column_2
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - Title
+      - Text
+      - Video
+      - Image
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Column 2
+  label: 2 Column layout
 pages:
 - content/about.html
