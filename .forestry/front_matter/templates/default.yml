@@ -60,7 +60,6 @@ fields:
       - Text
       - Video
       - Image
-      - Title
       source:
         type: simple
         section: 
@@ -73,7 +72,6 @@ fields:
     config:
       required: false
       options:
-      - Title
       - Text
       - Video
       - Image
