@@ -7,21 +7,11 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: banner
-  type: file
-  config:
-    maxSize: 250
-  label: Banner
 - name: description
   label: Description
   type: text
   hidden: false
   default: ''
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default: []
 - name: 2_column_layout
   type: field_group
   config: {}
@@ -62,30 +52,5 @@ fields:
         path: 
     label: Column 2
   label: 2 Column layout
-- name: categories
-  label: Categories
-  type: tag_list
-  hidden: false
-  default: []
-- name: type
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - image
-    - video
-    - text
-    - heading
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Type
-- name: test_group
-  type: field_group
-  config: {}
-  label: Test Group
 pages:
 - content/about.html
