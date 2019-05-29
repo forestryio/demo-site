@@ -22,31 +22,6 @@ fields:
   type: tag_list
   hidden: false
   default: []
-- name: categories
-  label: Categories
-  type: tag_list
-  hidden: false
-  default: []
-- name: type
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - image
-    - video
-    - text
-    - heading
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Type
-- name: test_group
-  type: field_group
-  config: {}
-  label: Test Group
 - name: 2_column_layout
   type: field_group
   config: {}
@@ -82,5 +57,30 @@ fields:
         path: 
     label: Column 2
   label: 2 Column layout
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: []
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - image
+    - video
+    - text
+    - heading
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
+- name: test_group
+  type: field_group
+  config: {}
+  label: Test Group
 pages:
 - content/about.html
