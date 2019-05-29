@@ -27,5 +27,21 @@ fields:
   type: tag_list
   hidden: false
   default: []
+- name: type
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - image
+    - video
+    - text
+    - heading
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
 pages:
 - content/about.html
