@@ -35,6 +35,15 @@ fields:
           file: 
           path: 
       label: Type
+    - name: text
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: true
+        schema:
+          format: markdown
+      label: Text
     label: Column 1
   - name: column_2
     type: field_group
@@ -56,6 +65,11 @@ fields:
           file: 
           path: 
       label: Type
+    - name: image
+      type: file
+      config:
+        maxSize: 250
+      label: Image
     label: Column 2
   label: 2 Column layout
 pages:
