@@ -37,19 +37,25 @@ fields:
       label: Type
     label: Column 1
   - name: column_2
-    type: select
-    default: []
-    config:
-      required: false
-      options:
-      - Text
-      - Video
-      - Image
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
+    type: field_group
+    config: {}
+    fields:
+    - name: type
+      type: select
+      default: []
+      config:
+        required: false
+        options:
+        - Text
+        - Image
+        - Video
+        - Wide-Image
+        source:
+          type: simple
+          section: 
+          file: 
+          path: 
+      label: Type
     label: Column 2
   label: 2 Column layout
 pages:
