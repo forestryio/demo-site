@@ -26,20 +26,25 @@ fields:
   type: field_group
   config: {}
   fields:
-  - name: column_1
-    type: select
-    default: []
-    config:
-      required: false
-      options:
-      - Text
-      - Video
-      - Image
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
+  - name: column_1_group
+    type: field_group
+    config: {}
+    fields:
+    - name: type
+      type: select
+      default: []
+      config:
+        required: false
+        options:
+        - Text
+        - image
+        - video
+        source:
+          type: simple
+          section: 
+          file: 
+          path: 
+      label: Type
     label: Column 1
   - name: column_2
     type: select
